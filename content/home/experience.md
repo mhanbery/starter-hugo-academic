@@ -36,7 +36,7 @@ experience:
         * Degree Audits
         * Academic Policies
   
-    - title: Associate Instructional Designer
+  - title: Associate Instructional Designer
     company: Aula Education
     company_url: ''
     company_logo: 
@@ -44,7 +44,7 @@ experience:
     date_start: '2020-07-07'
     date_end: '2021-01-01'
     description: Created wire-framed modules for online courses.
-    
+
   - title: Academic Advisor
     company: University of Central Florida
     company_url: ''
