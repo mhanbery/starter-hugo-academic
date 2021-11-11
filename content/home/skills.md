@@ -23,7 +23,7 @@ feature:
 - description: 80%
   icon: book
   icon_pack: fas
-  name: Research & Policy
+  name: Research 
 - description: 80%
   icon: desktop
   icon_pack: fas
@@ -36,6 +36,10 @@ feature:
   icon: fa-solid fa-chalkboard
   icon_pack: fas
   name: Professional Learning Techniques
+- description: 100%
+  icon: fas fa-pencil-alt
+  icon_pack: fas
+  name: Academic Policy  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
