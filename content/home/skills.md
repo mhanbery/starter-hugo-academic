@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 90%
   icon: tasks
-  icon_pack: fab
+  icon_pack: fas
   name: Project Management
 - description: 80%
   icon: book
