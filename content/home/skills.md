@@ -23,11 +23,19 @@ feature:
 - description: 80%
   icon: book
   icon_pack: fas
-  name: Research
+  name: Research & Policy
 - description: 80%
   icon: desktop
   icon_pack: fas
   name: Technology
+- description: 90%
+  icon: bell-concierge
+  icon_pack: fas
+  name: Customer Service
+- description: 80%
+  icon: chalkboard-user
+  icon_pack: fas
+  name: Professional Learning Techniques
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
