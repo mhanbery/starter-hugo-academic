@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: Technology
 - description: 90%
-  icon: bell-concierge
+  icon: fa-bell-concierge
   icon_pack: fas
   name: Customer Service
 - description: 80%
