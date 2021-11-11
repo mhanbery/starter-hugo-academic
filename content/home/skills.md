@@ -33,7 +33,7 @@ feature:
   icon_pack: fas
   name: Customer Service
 - description: 80%
-  icon: chalkboard-user
+  icon: fa-solid fa-chalkboard
   icon_pack: fas
   name: Professional Learning Techniques
 
