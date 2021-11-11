@@ -17,15 +17,15 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: tasks
   icon_pack: fab
   name: Project Management
 - description: 80%
-  icon: chart-line
+  icon: book
   icon_pack: fas
   name: Research
 - description: 80%
-  icon: camera-retro
+  icon: desktop
   icon_pack: fas
   name: Technology
 
