@@ -42,7 +42,7 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/Twitter'
-  - icon: skype
+  - icon: 
     icon_pack: fab
     name: 
     link: ''
