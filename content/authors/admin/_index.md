@@ -61,7 +61,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
  - icon_pack: ai
- - link: static/files/MH CV.pdf
+ - link: static/files/MHCV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
