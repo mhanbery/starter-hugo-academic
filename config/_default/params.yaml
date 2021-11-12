@@ -7,7 +7,7 @@
 
 theme: ocean
 day_night: true
-font: ''
+font: 'Minimal'
 font_size: L
 
 # SEO
@@ -44,8 +44,8 @@ contact_links:
     link: 'https://twitter.com/Twitter'
   - icon: skype
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    name: 
+    link: ''
   - icon: keybase
     icon_pack: fab
     name: 
