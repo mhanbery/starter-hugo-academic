@@ -70,6 +70,6 @@ email: ""
 highlight_name: true
 ---
 
-Melissa Hanbery is a first-year Texts & Technology PhD student at the University of Central Florida. Her research interests include learning management systems, instructional design, and higher education policy. She currently works in the Registrar’s Office at UCF.
+Melissa Hanbery is a part-time Texts & Technology PhD student at the University of Central Florida. Her research interests include learning management systems, instructional design, and higher education policy. She currently works in the Registrar’s Office at UCF.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
