@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Graduate Certificate in Instructional Design, Expected 2022
+  - course: Graduate Certificate in Instructional Design, Expected 2023
     institution: University of Central Florida
     year: 
   - course: Master of Education
