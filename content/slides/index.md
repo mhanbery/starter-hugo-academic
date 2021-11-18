@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: A Visual Metaphor for Bloom's Taxonomy.
+summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
 categories: []
