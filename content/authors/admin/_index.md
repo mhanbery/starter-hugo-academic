@@ -14,7 +14,7 @@ organizations:
   url: https://www.ucf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Melissa Hanbery is a first-year Texts & Technology PhD student at the University of Central Florida. Her research interests include learning management systems, instructional design, and higher education policy. She currently works in the Registrar’s Office at UCF.
+bio: Melissa Hanbery is a part-time Texts & Technology PhD student at the University of Central Florida. Her research interests include learning management systems, instructional design, and higher education policy. She currently works in the Registrar’s Office at UCF.
 
 # Interests to show in About widget
 interests:
