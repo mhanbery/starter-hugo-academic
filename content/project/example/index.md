@@ -1,6 +1,6 @@
 ---
 title: Projects
-summary: Coming soon.
+summary: Analysis Report Example 
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
