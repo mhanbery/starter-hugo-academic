@@ -18,7 +18,7 @@ links:
   name: ""
   url: ""
 url_code: ""
-url_pdf: 'content\project\example'
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
